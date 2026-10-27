@@ -1,0 +1,11 @@
+{
+    "name": "Jegyuchan664.ComUnityXrArfoundation.Tests",
+    "references": [
+        "Jegyuchan664.ComUnityXrArfoundation"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

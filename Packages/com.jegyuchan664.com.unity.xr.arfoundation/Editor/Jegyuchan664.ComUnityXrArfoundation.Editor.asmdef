@@ -1,0 +1,10 @@
+{
+    "name": "Jegyuchan664.ComUnityXrArfoundation.Editor",
+    "references": [
+      "Jegyuchan664.ComUnityXrArfoundation"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

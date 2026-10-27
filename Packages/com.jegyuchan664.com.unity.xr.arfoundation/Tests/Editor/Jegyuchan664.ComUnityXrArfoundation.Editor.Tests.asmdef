@@ -1,0 +1,14 @@
+{
+    "name": "Jegyuchan664.ComUnityXrArfoundation.Editor.Tests",
+    "references": [
+        "Jegyuchan664.ComUnityXrArfoundation.Editor",
+        "Jegyuchan664.ComUnityXrArfoundation"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
